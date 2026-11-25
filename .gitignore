@@ -1,0 +1,5 @@
+node_modules/
+out/
+output/
+# The crash-before-leak entry never leaves files lying around either.
+*.log
